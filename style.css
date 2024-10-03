@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(166, 240, 243);
+}
+.main100{
+    background-color: aliceblue;
+    width: 700px;
+    height: 700px;
+    margin-top: 40px;
+    border-radius: 15px;
+    box-shadow: 0 10px 20px rgb(61, 61, 184);
+}
+
+
+.h1{
+
+    position: absolute;
+    margin-top: 10px;
+}
+img{
+    position: absolute;
+ margin-top: 290px;
+
+
+}
